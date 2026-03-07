@@ -188,8 +188,10 @@ POST `/predict`
 
 ```
 {
+
 "fraud_prediction": 0,
 "fraud_probability": 0.29
+
 }
 ```
 
@@ -202,7 +204,7 @@ The API returns both the predicted class and the probability score so that downs
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/fraud-detection-ml.git
+git clone https://github.com/shaistabibi/fraud-detection-ml.git
 ```
 
 Navigate into the project folder:
